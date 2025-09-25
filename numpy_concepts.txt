@@ -1,0 +1,13 @@
+-- arange
+-- reshape
+-- random
+-- zeros
+-- ones
+-- vectors - addition, sub, prod, mod
+-- array operators -- add, sub, prod, mod
+-- dtype conversions
+-- identity
+-- Trignometry function -- sin,cos,tan, std, var
+-- statistical functions -- mean, median
+-- sum,max,min, ndim, shape 
+-- 
