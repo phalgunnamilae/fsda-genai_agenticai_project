@@ -11,7 +11,7 @@ from sklearn.metrics import accuracy_score, classification_report, confusion_mat
 
 #import data set
 
-data_set = pd.read_csv(r"C:\Users\Kumar\FS AIML\Restaurant_Reviews.tsv", delimiter='\t', quoting=3)
+data_set = pd.read_csv(r"C:\Users\nphal\fsda-genai_agenticai_project\Restaurant_Reviews.tsv", delimiter='\t', quoting=3)
 
 
 # Data cleaning
@@ -20,6 +20,7 @@ import re
 import nltk
 from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer
+
 
 # List of classifiers
 classifiers = {
