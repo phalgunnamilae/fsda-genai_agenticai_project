@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/713622806695054289/767eb384d6b047f4a0e3a64bea6c2287/artifacts
+end_time: 1759068400395
+entry_point_name: ''
+experiment_id: '713622806695054289'
+lifecycle_stage: active
+run_id: 767eb384d6b047f4a0e3a64bea6c2287
+run_name: sassy-vole-559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759068400228
+status: 4
+tags: []
+user_id: nphal
