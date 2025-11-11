@@ -1,0 +1,38 @@
+[
+  {
+    "patient_id": "P001",
+    "name": "John Doe",
+    "age": 45,
+    "diagnosis": "Type 2 Diabetes",
+    "cpt_codes": ["83036", "82947"],
+    "insurance_plan": {
+      "provider": "Blue Cross",
+      "plan_type": "PPO",
+      "covered_cpt": ["83036", "80053", "99213"]
+    }
+  },
+  {
+    "patient_id": "P002",
+    "name": "Jane Smith",
+    "age": 62,
+    "diagnosis": "Hypertension",
+    "cpt_codes": ["93000", "80061"],
+    "insurance_plan": {
+      "provider": "United Health",
+      "plan_type": "HMO",
+      "covered_cpt": ["80061", "99214"]
+    }
+  },
+  {
+    "patient_id": "P003",
+    "name": "Rahul Mehta",
+    "age": 34,
+    "diagnosis": "Asthma",
+    "cpt_codes": ["94010", "99213"],
+    "insurance_plan": {
+      "provider": "Aetna",
+      "plan_type": "POS",
+      "covered_cpt": ["94010", "94640", "99213"]
+    }
+  }
+]
