@@ -7,7 +7,7 @@ from IPython.display import display
 from IPython.display import Markdown
 
 import os
-os.environ['GEMINI_API_KEY'] = 'AIzaSyCmsmNqErhSOBBBX4w9E1cJ-QEA2kDGTxc'
+os.environ['GEMINI_API_KEY'] = 'APIKEY'
 
 
 import google.generativeai as genai

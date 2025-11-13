@@ -5,7 +5,7 @@ import textwrap
 from PIL import Image
 
 import os
-os.environ['GEMINI_API_KEY'] = 'AIzaSyCmsmNqErhSOBBBX4w9E1cJ-QEA2kDGTxc'
+os.environ['GEMINI_API_KEY'] = 'APIKEY'
 
 import google.generativeai as genai
 genai.configure(api_key=os.environ['GEMINI_API_KEY'])

@@ -6,7 +6,7 @@ st.set_page_config(page_title="AI Translator", page_icon="🌐", layout="centere
 st.title("AI Chat bot")
 st.write("Enter your question here")
 
-os.environ["GOOGLE_API_KEY"] = "AIzaSyCmsmNqErhSOBBBX4w9E1cJ-QEA2kDGTxc"
+os.environ["GOOGLE_API_KEY"] = "APIKEY"
 
 # user inputs 
 
